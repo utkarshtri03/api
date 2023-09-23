@@ -1,0 +1,30 @@
+{
+  "bar": [
+    {
+      "name": "Week 1",
+      "uv": "400",
+      "pv": "500"
+    },
+    {
+      "name": "Week 2",
+      "uv": "450",
+      "pv": " 350"
+    },
+    {
+      "name": "Week 3",
+      "uv": " 300",
+      "pv": "200"
+    },
+    {
+      "name": "Week 4",
+      "uv": "350",
+      "pv": "400"
+    }
+  ],
+
+  "pie": [
+    { "name": "Group A", "value": "300" },
+    { "name": "Group B", "value": "300" },
+    { "name": "Group C", "value": "500" }
+  ]
+}
